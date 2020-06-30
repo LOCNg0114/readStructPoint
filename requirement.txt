@@ -1,0 +1,18 @@
+
+- struct POINT has 2 properties: x, y
+- function readPoint: create new struct POINT (x, y read from file input) và trả về con trỏ đến cấu trúc này
+- function display: print x, y of POINT
+- function main: call readPoint to create new POINT and call display to print it.
+
+Input description:
+- The first number is x
+- The second number is y
+EXAMPLE:
+Input: 0.1 0.2
+Output:
+0.1
+0.2
+Noted: Print "\n" at the end
+Explain
+- x = 0.1
+- y = 0.2
